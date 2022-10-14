@@ -12,3 +12,9 @@ Then we need to commit the changes
 git add
 git commit
 ~~~
+
+Add remote repo
+
+~~~bash
+git remote add origin https://github.com/CesarJZO/Git.git
+~~~
