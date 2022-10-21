@@ -1,10 +1,16 @@
 # Git
 
-First we need to create or clone a repositoru
+First we need to create or clone a repository
 
 ~~~bash
 git init
 ~~~
+
+Or to clone a repo
+
+```bash
+git clone <the url repo>
+```
 
 Then we need to commit the changes
 
