@@ -24,3 +24,8 @@ Add remote repo
 ~~~bash
 git remote add origin https://github.com/CesarJZO/Git.git
 ~~~
+
+```bash
+git status
+git log
+```
