@@ -10,12 +10,12 @@
 ## Timeline
 
 ```
-    Init or clone
-         \
-          \
-        Make changes -> Stage them -> Commit them
-             \                            /
-              -- <- Sync with remote <- --
+Init or clone
+     \
+      \
+    Make changes -> Stage them -> Commit them
+         \                            /
+          -- <- Sync with remote <- --
 ```
 
 ## First time
@@ -61,7 +61,7 @@ git clone git@github.com:CesarJZO/Git.git
 
 ## Working with changes
 
-At this point, you are going to do this quite often, just follow this principle:
+At this point you are going to do this quite often. Just follow this principle:
 
 1. Make changes as normal (write some code, add, modify, delete...)
 
